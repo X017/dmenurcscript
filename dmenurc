@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+dmenu_run -m 0  -fn "Liberation Mono:size=12" -nb "#0c0d0d" -nf "#bbbbbb" -sb "#182928" -sf "#eeeeee" -p "RUN: "
